@@ -1,0 +1,14 @@
+4. the terminal uses the PATH environment variable to find programs to execute
+5. to make it available for reference at a point in time
+6. to permanently save enironmental variables, you need to modify the shell configuration file in your home directory
+7. A process is a program on your computer that is being run
+8. by using the command ps aux
+9. It means process identifier or process ID
+10. type kill and then the PID and hit enter
+11. the kill sends signal TERM to terminate a process, if a program has crashed or is frozen for some reason, its possible that it wont pick up on that signal and the process may not terminate. The -9 flag represents the KILL signal, which is a non-catchable, non-ignorable kill.
+12. -i
+13. -B
+14. -C
+15. -A
+16. -w
+17. -n

@@ -1,0 +1,7 @@
+1. find . -name learn
+2. find . -name [P]*
+3. find . -name *.txt
+4. find . -name *data*
+5. grep -c Elie instructors.txt
+6. grep P instructors.txt
+7. grep -ni z instructors.txt
